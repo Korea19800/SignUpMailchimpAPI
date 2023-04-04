@@ -71,9 +71,3 @@ app.post("/success",function(){
 app.listen(3000,function(){
     console.log("Server is running oon port 3000");
 });
-
-// API key
-//c04be68ff7b5b13ccb8167c643b4b4c5-us21
-
-// audience id
-// 78f81047fd
